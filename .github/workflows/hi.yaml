@@ -1,4 +1,4 @@
-name: I like this
+name: Sync Security Hub findings and Jira issues
 on:
   push: # testing
   workflow_dispatch: # for testing and manual runs
